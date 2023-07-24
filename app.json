@@ -1,0 +1,10 @@
+{
+  "expo": {
+    "scheme": "acme",
+    "web": {
+      "bundler": "metro"
+    },
+    "name": "react-native-jobs-jsMastery",
+    "slug": "react-native-jobs-jsMastery"
+  }
+}
