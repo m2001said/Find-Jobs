@@ -29,6 +29,7 @@ const styles = StyleSheet.create({
     borderRadius: 6,
     backgroundColor: COLORS.gray2,
     marginTop: 6,
+    flexShrink: 0,
   },
   pointText: {
     fontSize: SIZES.medium - 2,
